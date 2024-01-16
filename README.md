@@ -1,7 +1,7 @@
 # Pasos para montar un repositorio git lfs 
 
 Creamos una carpeta y le indicamos por "git lfs track "*.example"" el tipo de archivo que queremos seguir
-![Imagen1](https://github.com/AliciaElizabeta/FDV_GitPractica/main/imagesReadme/img1.jpg)  
+![Imagen1](https://github.com/AliciaElizabeta/FDV_GitPractica/tree/main/imagesReadme/img1.jpg)  
 
 Con todos los archivos listos podemos añadirlos al repositorio con "git add -all"
 Comparando con la imagen anterior (mediante el comando git status) veremos como su color ha cambiado
